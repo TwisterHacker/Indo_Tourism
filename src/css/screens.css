@@ -1,0 +1,207 @@
+
+
+@media only screen and (max-width: 1600px){
+
+    .beach_img_text{
+        left: 10%;
+        right: 10%;
+        font-size: 40px;
+        padding-bottom: 200px;
+    }
+
+    .ask{
+    }
+
+    .other_div_text_h1{
+    }
+
+}
+@media only screen and (max-width: 1400px){
+    .beach_img_text{
+        margin-left: 2%;
+        margin-top: 400px;
+    }
+
+    .ask{
+
+    }
+}
+@media only screen and (max-width: 1024px){
+    .beach_img_text{
+        font-size: 35px;
+    }
+
+    .logo{
+        margin-left: 150px;
+    }
+
+    .menu{
+        margin-right: 150px;
+    }
+}
+@media only screen and (max-width: 800px){
+    .logo{
+        margin-left: 10px;
+    }
+
+    .menu{
+        margin-right: 10px;
+    }
+
+    .beach_img_text{
+        font-size: 28px;
+    }
+
+    .ask{
+        font-size: 30px;
+        width: 250px;
+        height: 50px;
+        margin-right: 35%;
+        margin-left: 35%;
+    }
+}
+@media only screen and (max-width: 720px){
+    .menu_lnk{
+        margin-right: 20px;
+    }
+
+    .beach_img_text{
+        font-size: 25px;
+    }
+
+    .other_div_text_h1{
+        font-size: 16px;
+    }
+
+    .img__{
+        margin-left: 50px;
+    }
+
+    .text__{
+        margin-left: 70px;
+        font-size: 17px;
+    }
+}
+@media only screen and (max-width: 480px){
+    .first_part {
+        font-size: 30px;
+    }
+
+    .second_part{
+        font-size: 25px;
+    }
+
+    .logo{
+    }
+
+    .menu{
+        display: none;
+    }
+
+    .hiden_menu_btn{
+        display: inline;
+
+    }
+
+    .hiden_menu{
+        font-size: 20px;
+        padding-left: 20px;
+        padding-top: 20px;
+        display: none;
+    }
+
+    .photo_other_div{
+        display: block;
+    }
+
+    .text__{
+        margin-bottom: 50px;
+    }
+
+    body{
+        width: 480px;
+    }
+
+    .ask{
+        margin-left: 24%;
+        margin-right: 24%;
+    }
+
+    .beach_img{
+        height: 500px;
+    }
+
+    .beach_img_text{
+        margin-top: 50px;
+        top: 50px;
+        color: #555;
+        font-size: 19px;
+    }
+
+    .photo_other_div_flex{
+        padding-top: 1px;
+    }
+
+}
+@media only screen and (max-width: 360px){
+    .first_part {
+        font-size: 30px;
+    }
+
+    .second_part{
+        font-size: 25px;
+    }
+
+    .logo{
+    }
+
+    .menu{
+        display: none;
+    }
+
+    .hiden_menu_btn{
+        display: inline;
+
+    }
+
+    .hiden_menu{
+        font-size: 20px;
+        padding-left: 20px;
+        padding-top: 20px;
+        display: none;
+    }
+
+    .photo_other_div{
+        display: block;
+    }
+
+    .text__{
+        margin-bottom: 50px;
+    }
+
+    body{
+        width: 360px;
+    }
+
+    .ask{
+        margin-left: 15%;
+        margin-right: 15%;
+    }
+
+    .beach_img{
+        height: 500px;
+    }
+
+    .beach_img_text{
+        margin-top: 50px;
+        top: 50px;
+        color: #555;
+        font-size: 19px;
+    }
+
+    .photo_other_div_flex{
+        padding-top: 1px;
+    }
+}
+@media only screen and (max-width: 299px){
+}
